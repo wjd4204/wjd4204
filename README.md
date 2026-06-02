@@ -25,17 +25,14 @@
 <h4>💻 Language</h4>
 <p>
   <img src="https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 <h4>🌱 Framework & Library</h4>
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-1D4ED8?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Data_JPA-334155?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Security-0F766E?style=for-the-badge&logo=springsecurity&logoColor=white"/> </br>
   <img src="https://img.shields.io/badge/Spring_Cache-0369A1?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Querydsl-475569?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 </p>
 
 <h4>🗄 Database</h4>
@@ -48,20 +45,12 @@
 
 <h4>☁️ Cloud & Infra</h4>
 <p>
-  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=ec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/> </br>
-  <img src="https://img.shields.io/badge/AWS_ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_ECR-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_CloudWatch-232F3E?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=aws&logoColor=white"/>
 </p>
 
 <h4>⚙️ Tools</h4>
 <p>
   <img src="https://img.shields.io/badge/Docker-2563EB?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-334155?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLTron-0F172A?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/DBeaver-4B5563?style=for-the-badge&logo=dbeaver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=white"/>
